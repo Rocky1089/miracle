@@ -1,0 +1,439 @@
+
+body{
+    padding: 0%;
+    margin: 0%;
+    height:800px;
+    background-color:rgb(65, 63, 62);
+    
+}
+.cart{
+    float:right;
+    color:white;
+    margin-top: 25px;
+    position: absolute;
+    left: 85%;
+}
+.user{
+    color:white;
+    margin-top: 25px;
+    position:absolute;
+    left:90%;
+    border: 8px;
+}
+ul li{
+    display:inline-block;
+    margin:25px 10px;
+    color:white;
+   
+}
+.home{
+    position: absolute;
+    left:30%;
+    font-weight: bold;
+    font-size: 18px;
+}
+.feature{
+    position: absolute;
+    left:38%;
+}
+.about{
+    position: absolute;
+    left:47%;
+}
+.product{
+    position: absolute;
+    left:55%;
+}
+.contact{
+    position: absolute;
+    left:63%;
+}
+
+.miracles{
+    position: absolute;
+    left:8%;
+    color:white;
+    font-weight: 15px;
+    font-size: 20px;
+}
+
+.intro{
+    color: rgb(198,165,63);
+    padding-left: 100px;
+    
+}
+.beauty{
+    color:white;
+    font-size: 30px;  
+    padding-left: 100px;
+}
+.note{
+    color:rgb(224, 217, 217);
+    line-height: 25px;
+    padding-left: 100px;
+}
+.button{
+    color:white;
+    width: 150px;
+    background-color:rgb(198,165,63);
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    margin-left: 100px;
+    position: relative;
+}  
+.button:hover{
+    color: orange;
+    background-color: white;
+}
+.icon{
+    margin-left: 300px;
+    position:absolute;
+    top:465px;   
+    background-color: white;
+    padding: 2px 3px 1px 4px;
+    border-radius: 50%;
+    font-size: 12px;
+}
+.watch{
+    position:absolute;
+    margin-left:330px;
+    top:464px;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(65, 63, 62);   
+}
+.watch:hover{
+    color:orange;
+    background-color: white;
+}
+.image1{
+    height:430px;
+  position: absolute;
+  top:136px;
+  left:892px;
+}
+.choose{
+    color:rgb(198,165,63);
+    margin-left: 90px;
+}
+.bath{
+    /* width: 50px; */
+    background-color: orange;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.tdata{
+    width: 25%;
+    font-size: 25px;
+    padding-right: 25px;
+    float:right;
+}
+.easy{
+
+}
+.history3{
+    padding-left: 730px;
+    color:rgb(198,165,63);
+    padding-top: 70px;
+    
+    
+}
+.historybr{
+    color:white;
+    padding-left: 730px;
+    font-size: 30px;
+}
+.note3{
+    color:rgb(220, 215, 215);
+    padding-left: 730px;
+    line-height: 25px;
+    position: relative;
+}
+.buttonH{
+        margin-left: 730px;
+    color: white;
+    padding: 7px 10px;
+    background-color:rgb(198,165,63);
+    border: none;
+    border-radius: 50px;
+    margin-top: 20px;
+    /* position: relative; */
+}
+.buttonH:hover{
+    color: orange;
+    background-color: white;
+}
+.buttonh{
+       /* margin-left:680px ; */
+       position: absolute;
+       left:900px;
+       color: white;
+       background-color:rgb(65, 63, 62);
+       border-radius: 50px;
+       border: none;
+       top:1520px;
+}
+.buttonh:hover{
+    color: orange;
+    background-color: white;
+}
+.faplay{
+    position: absolute;
+    left:880px;
+    background-color: white;
+    padding: 2px 3px 1px 4px;
+    border-radius: 50%;
+    font-size: 12px;
+    top:1520px;
+}
+.pic{
+    position: relative;
+    bottom:399px;
+}
+.i2{
+    margin-left: 300px;
+    background-color:rgb(198,165,63);
+    border-radius: 50%;
+    padding: 15px 15px;
+    
+}
+.com{
+   display: inline-block;
+   margin-left: 2760px;
+   font-size: 25px;
+}
+.menu{
+    color:rgb(166, 164, 164);
+    font-size: 17px;
+}
+.various{
+    color: rgb(198,165,63);
+    padding-left: 100px;
+    padding-top: 70px;
+}
+.unity{
+    color:black;
+    font-size: 30px;  
+    padding-left: 100px;
+    /* position:relative; */
+}
+.note4{
+    color:rgb(147, 144, 144);
+    font-size: 20px;
+}
+.button4{
+    margin-top: 60px;
+      padding: 25px 25px;
+      border-radius: 50px;
+      border:1px solid rgb(182, 177, 177);
+      font-size: 15px;
+      position: relative;
+}
+.button04{
+    margin-left:100px;
+    position: absolute;
+    top: 2028px;
+    padding: 25px 25px;
+      border-radius: 50px;
+      border:1px solid black;
+      font-size: 15px;
+}
+.image4{
+    margin-left: 650px;
+    position:absolute;
+    top:1645px; 
+}
+.image04{
+    margin-left: 974px;
+    position: absolute;
+    top:1645px;
+}
+.image004{
+    margin-left: 974px;
+    position: absolute;
+    top:1940px;
+}
+.image5{
+    padding-left: 75px;
+    padding-top: 20px;
+}
+.image05{
+    padding-top: 20px;
+    padding-left: 100px;
+    position: relative;
+}
+.note5{
+    color: white;
+    font-size: 35px;
+    padding-left: 80px;
+}
+.note005{
+    padding-left: 750px;
+    position: absolute;
+    top:2700px;
+    color: white;
+    font-size: 34px;
+}
+.image005{
+    padding-left: 80px;
+    padding-top: 25px;
+}
+.image0005{
+    padding-left: 750px;
+    position: absolute;
+    top:2835px;
+}
+.note00005{
+    color: white;
+    font-size: 35px;
+    padding-left: 80px;
+}
+.notev5{
+    color:white;
+    padding-left: 750px;
+    position: absolute;
+    top:3150px;
+    font-size: 34px;
+}
+.cheveroniii{
+    color: rgb(4, 155, 4);
+    margin-left: 560px;
+    position: absolute;
+    top:2730px;
+}
+.cheveroniiii{
+    color: rgb(15, 156, 15);
+    margin-left: 1250px;
+    position: absolute;
+    top: 2730px;
+}
+.cheveroni{
+    margin-left: 560px;
+    color:rgb(10, 156, 10);
+    position: absolute;
+    top: 3200px;
+}
+.cheveronii{
+        color: rgb(6, 161, 6);
+        margin-left:850px;
+        position: absolute;
+        top: 3200px;
+}
+.button05{
+    margin-left: 1045px;
+    margin-top: 10px;
+    padding:10px 13px 10px 13px;
+    border-radius: 50px;
+    background-color:rgb(65, 63, 62);
+    border:1px solid grey;
+    color:rgb(214, 200, 200);
+}
+.button05:hover{
+    background-color: white;
+    color:orange;
+}
+.button005{
+    margin-left: 1190px;
+    position: absolute;
+    top:3290px;
+    padding: 10px 12px 10px 12px;
+    border-radius: 50px;
+    color: rgb(224, 216, 216);
+    background-color: rgb(242, 160, 7);
+    border:none;
+
+}
+.discount{
+    padding-top: 30px;
+    margin-left: 90px;
+    color:rgb(198,165,63);
+}
+.note6{
+    color:white;
+    font-size: 30px;
+    margin-left: 90px;
+}
+input{
+    margin-left: 90px;
+    padding:20px 40px;
+    width: 28%;
+    position: relative;
+    font-size: 15px;
+}
+.subscribe{
+    position: absolute;
+    margin-left: 420px;
+    padding: 12px 15px;
+    top:3734px;
+    background-color:rgb(198,165,63);
+    color: white;
+    border: 1px solid rgb(198,165,63);
+}
+.subscribe:hover{
+    background-color:green;
+    color: orange;
+}
+.image6{
+    margin-left: 822px;
+    position: absolute;
+    top:3485px;
+}
+.miracle6{
+    width: 23.25%;
+    margin-left: 50px;
+}
+.contact6{
+    width: 21.25%;
+}
+.special6{
+    width: 21.25%;
+}
+.about6{
+    width: 21.25%
+}
+.ice{
+    padding-left: 90px;
+    width: 7.75%; 
+}
+.camera{
+    width: 20px;
+        background-color: white;
+        padding: 5px 3px 3px 6px;
+        border-radius: 20px;
+        position: absolute;
+        left: 145px;
+} 
+
+.body6{
+    padding-left: 30.5%;
+    font-size: 20px;
+    position: absolute;
+    top:4050px;
+}
+.our{
+    width: 307px;
+}
+.mot{
+    width: 307px;
+}
+.ending{
+    color: rgb(186, 183, 183);
+    font-size: 15px;
+}
+.lastbut{
+      margin-left: 519px;
+      border:1px solid grey;
+      border-radius: 30px;
+      background-color:rgb(65, 63, 62) ;
+      color:grey;
+      position: absolute;
+      top:4283px;
+      
+}
+.lastp{
+    margin-left: 540px;
+    font-size: 17px;
+    color:rgb(224, 219, 219);
+}
